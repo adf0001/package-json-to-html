@@ -1,0 +1,23 @@
+{
+  "name": "package-json-to-html",
+  "version": "1.0.1",
+  "description": "format package.json to html text",
+  "main": "package-json-to-html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package.json",
+    "html"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/package-json-to-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/package-json-to-html/issues"
+  },
+  "homepage": "https://github.com/adf0001/package-json-to-html#readme"
+}
